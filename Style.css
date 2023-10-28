@@ -3,6 +3,7 @@
     color: red;
 } */
 
+
 /* TYPE SELECTOR */
 
 /* single */
@@ -15,10 +16,12 @@
     color: red;
 } */
 
+
 /* Class selector */
 /* .interest {
     color: red;
 } */
+
 
 /* ID SELECTOR */
 /* #spanele {
@@ -27,22 +30,29 @@ color: red;
 /* span {
     color: red;
 } */
+
+
 /* Child selector */
 /* span > p {
     color: red;
 } */
+
+
 /* /* Desendig selector * */
 
 /* div p {
     color: red;
 } */
 
+
+
 /* Adjecent sibling selector */
 /* h1+p{
     color: red;
 } */
 
+
 /* general sele */
-h1~p{
+/* h1~p{
     color: red;
-}
+} */
